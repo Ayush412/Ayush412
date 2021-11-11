@@ -4,7 +4,9 @@
 
 ## Beep Boop! 
 
-Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion of developing mobile apps with Flutter and am currently working for a startup called [EventBeep](https://eventbeep.com/). I also love music (especially deep and bass house) and wish to become a part time DJ 🎧. Feel free to connect with me here:
+Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/). I also love music (especially deep and bass house) and wish to become a part time DJ 🎧.
+
+Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush412/)](https://www.linkedin.com/in/ayush412/)
 
@@ -22,12 +24,16 @@ Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a 
 
 ## 📊 Stats, Stats, Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact&theme=tokyonight)
 
-###
-##### Catch you on the flip side 🛹
+### Some of my work
 
+[<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/KILO.png" width="60">](https://github.com/Ayush412/KILO)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/ECOM.png" width="60">](https://github.com/Ayush412/e_commerce_bloc)
+
+##
+
+<center><h5> Catch you on the flip side 🛹</h5></center>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/EPA.gif" width="300">
 </p>
