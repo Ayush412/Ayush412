@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/bmo.gif" width="150px">
+  <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/bmo.gif" width="250">
 </p>
 
 ## Beep Boop! 
@@ -20,13 +20,14 @@ Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
+## 📊 Stats, Stats, Stats
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact)
 
-
-
-#### Catch you on the flip side 🛹
+###
+##### Catch you on the flip side 🛹
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/EPA.gif" width="150px">
+  <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/EPA.gif" width="300">
 </p>
