@@ -4,7 +4,7 @@
 
 ## Beep Boop! 
 
-Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/). I also love music (especially deep and bass house) and wish to become a part time DJ 🎧.
+Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/) as a flutter developer. I also love music (especially deep and bass house) and wish to become a part time DJ 🎧.
 
 Feel free to connect with me here:
 
@@ -27,7 +27,7 @@ Feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact&theme=tokyonight)
 
-### Some of my work
+## ⚡ Stuff I Made
 
 [<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/KILO.png" width="60">](https://github.com/Ayush412/KILO)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/ECOM.png" width="60">](https://github.com/Ayush412/e_commerce_bloc)
 
