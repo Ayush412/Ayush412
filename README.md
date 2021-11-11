@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/bmo.gif" width="250">
-</p>
+</div>
 
 ## Beep Boop! 
 
@@ -31,9 +31,8 @@ Feel free to connect with me here:
 
 [<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/KILO.png" width="60">](https://github.com/Ayush412/KILO)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/ECOM.png" width="60">](https://github.com/Ayush412/e_commerce_bloc)
 
-##
-
-<center><h5> Catch you on the flip side 🛹</h5></center>
-<p align="center">
+#
+<div align="center">
+  <h5> Catch you on the flip side 🛹</h5>
   <img src="https://raw.githubusercontent.com/Ayush412/Ayush412/master/assets/EPA.gif" width="300">
-</p>
+</div>
