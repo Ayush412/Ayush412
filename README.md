@@ -4,7 +4,7 @@
 
 ## Beep Boop! 
 
-Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/) as a flutter developer. I also love music (especially deep and bass house) and wish to become a part time DJ 🎧.
+Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/) as a flutter developer. Alongside my day job, I've started learning and developing small projects with Golang (Go). I also love music (especially bass and funky house) and wish to become a part time DJ 🎧.
 
 Feel free to connect with me here:
 
@@ -13,7 +13,7 @@ Feel free to connect with me here:
 ## 💻 My Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
