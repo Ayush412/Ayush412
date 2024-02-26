@@ -4,7 +4,7 @@
 
 ## Beep Boop! 
 
-Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for a startup called [EventBeep](https://eventbeep.com/) as a flutter developer. Alongside my day job, I've started learning and developing small projects with Golang (Go). I also love music (especially bass and funky house) and wish to become a part time DJ 🎧.
+Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently lead a team of Flutter Developers at [EventBeep](https://eventbeep.com/) and have had my app showcased on Shark Tank India and recognized by Google AppScale Academy.
 
 Feel free to connect with me here:
 
@@ -12,8 +12,6 @@ Feel free to connect with me here:
 
 ## 💻 My Skills
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -26,6 +24,10 @@ Feel free to connect with me here:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact&theme=tokyonight)
+
+## 🧱 Mason Bricks
+
+I've made some of my own [bricks](https://github.com/ayush412/mason_templates) which I use in my Flutter projects. Feel free to use them for your future projects and contribute to the repo!
 
 ## ⚡ Stuff I Made
 
