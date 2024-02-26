@@ -4,13 +4,13 @@
 
 ## Beep Boop! 
 
-Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently lead a team of Flutter Developers at [EventBeep](https://eventbeep.com/) and have had my app showcased on Shark Tank India and recognized by Google AppScale Academy.
+Hi there, I'm Ayush Rajguru. I am a Computer Science Engineer from India with a passion for developing mobile apps with Flutter. I currently work for [EventBeep](https://eventbeep.com/), a startup based in Pune as the Lead Flutter Developer. The apps I've worked on have been on Shark Tank India, Google App Scale Academy and were featured on Google Play Store under the section 'Inspiring Apps Made in India'. 
 
-Feel free to connect with me here:
+Feel free to connect with me on LinkedIn:
 
 [![Linkedin Badge](https://img.shields.io/badge/Ayush_Rajguru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush412/)](https://www.linkedin.com/in/ayush412/)
 
-## 💻 My Skills
+## 💻 Skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
