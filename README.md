@@ -20,11 +20,6 @@ Feel free to connect with me on LinkedIn:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 
-## 📊 Stats, Stats, Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ayush412&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush412&hide=TeX&layout=compact&theme=tokyonight)
-
 ## 🧱 Mason Bricks
 
 I've made some of my own [bricks](https://github.com/ayush412/mason_templates) which I use in my Flutter projects. Feel free to use them for your future projects and contribute to the repo!
